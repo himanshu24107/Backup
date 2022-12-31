@@ -1,0 +1,1 @@
+%shell pip uninstall tensorflow
