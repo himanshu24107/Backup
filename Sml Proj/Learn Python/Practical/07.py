@@ -1,4 +1,5 @@
-n = int(input("Enter a number: "))
+# Program 7
+n = int(input("Enter a number: "))#6996
 m = n
 s = 0
 while n>0:
@@ -11,3 +12,4 @@ if s==m:
     print(f'{m} is a Palidrome Number.')
 else:
     print('Better Luck next time!')
+#Output: 6996 is a Palidrome Number.
