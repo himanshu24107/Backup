@@ -1,5 +1,7 @@
+# Program 4
 import math
-x = 5
-n = 2
-y = math.pow(5,2)
+x = int(input("Enter base:")
+n = int(input("Enter resultant:")
+y = math.pow(x,n) #5,2
 print(f'Resultant: {y}')
+# Output: Resultant:25
