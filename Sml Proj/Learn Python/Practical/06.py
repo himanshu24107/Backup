@@ -1,6 +1,7 @@
+# Program 6
 import math
-x = int(input("Enter base no.: "))
-n = int(input("Enter Degree: "))
+x = int(input("Enter base no.: "))#5
+n = int(input("Enter Degree: "))#2
 s = 0
 formula = "S = 1-x+x^2-x^3.......x^n"
 print(f'Formula: {formula}')
@@ -12,5 +13,5 @@ for i in range(0,n+1):
     else:
         s = s+j
 print(f'Answer: {s}')
-
+# Output:Answer 21
 
